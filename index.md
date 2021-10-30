@@ -1,10 +1,9 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
-
+title: The good Side
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+A page to read while you procrastinate that assignment
 
 
