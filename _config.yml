@@ -1,14 +1,12 @@
 
 # SEO
-title: Athena Jekyll Theme
-description: A simple and elegant theme for Jekyll and GitHub Pages.
-
+title: The good side
+description: A blog of the quirky side of stuff
 # social
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
+github_repo: sanskarlalwani/the_good_side
 github_username: broccolini
-theme_color: light
+theme_color: dark
 
 # Theme
 remote_theme: 'internet-de-france/athena'
